@@ -1,0 +1,18 @@
+{
+  "index": "Introduction",
+  "model": "Model Development & Training",
+  "bias": "Bias & Fairness",
+  "userexperience": "User Experience (UX) and User Interface (UI)",
+  "data": "Data Management & Quality",
+  "ethics": "Ethics & Compliance",
+  "security": "Security & Access Control",
+  "risk": "Risk & Impact Assessment",
+  "review": "Review and Feedback Mechanisms",
+  "reporting": "Documentation and Reporting",
+  "diversity": "Diversity and Inclusivity",
+  "privacy": "Privacy and Data Protection",
+  "strategy": "Strategy and Procedures",
+  "interpretability": "Decision Explanation and Interpretability",
+  "measurement": "Measurement and Verification",
+  "accessibility": "Accessibility and Rights"
+}
